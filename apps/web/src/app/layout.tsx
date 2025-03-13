@@ -32,7 +32,7 @@ export default function RootLayout({
           <meta itemProp="image" content={meta.src} />
 
           {/* Facebook Meta Tags */}
-          <meta property="og:url" content="https://sunhacks.io/" />
+          <meta property="og:url" content="https://2024.sunhacks.io/" />
           <meta property="og:type" content="website" />
           <meta property="og:title" content="sunhacks - September 2024" />
           <meta property="og:description" content="Join us for sunhacks on September 28 at the SDFC, ASU Tempe!" />

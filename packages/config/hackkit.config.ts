@@ -3,7 +3,7 @@ export const defaultTheme = "light";
 export default {
 	hackathonName: "sunhacks",
 	itteration: "2024",
-	siteUrl: "https://sunhacks.io", // Do not have a trailing slash
+	siteUrl: "https://2024.sunhacks.io", // Do not have a trailing slash
 	defaultMetaDataDescription:"sunhacks 2024 is coming this September 28th - 29th!",
 	botName: "sunhacks",
 	botParticipantRole: "SH25 Participant",
